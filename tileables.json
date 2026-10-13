@@ -120,6 +120,29 @@
       "stripped_warped_stem": {}
     }
   },
+  "terracotta": {
+    "category": "Terracotta",
+    "path": "minecraft/terracotta",
+    "variants": {
+      "white_terracotta": {},
+      "light_gray_terracotta": {},
+      "gray_terracotta": {},
+      "black_terracotta": {},
+      "brown_terracotta": {},
+      "red_terracotta": {},
+      "orange_terracotta": {},
+      "yellow_terracotta": {},
+      "lime_terracotta": {},
+      "green_terracotta": {},
+      "cyan_terracotta": {},
+      "light_blue_terracotta": {},
+      "blue_terracotta": {},
+      "purple_terracotta": {},
+      "magenta_terracotta": {},
+      "pink_terracotta": {}
+    }
+  },
+  },
   "white_glazed_terracotta": {
     "category": "Glazed Terracotta",
     "path": "minecraft/glazed_terracotta",
